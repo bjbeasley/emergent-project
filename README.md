@@ -2,7 +2,7 @@ This game is a short experiment in emergent narrative.
 
 It features turn-based tactical battles and traversal around a procedurally generated overworld. 
  - The worlds are generated using my own library (EmpiresCore), which I originally developed for a separate project.
- - All character portraits are also procedural
+ - All character portraits are also procedural.
  - You control a party of fighters fleeing your homes as a mysterious sickness spreads across the world. 
  - Survive as long as you can, recruit new allies and find new weapons to defend yourself.
  - The number of events, items and location types is somewhat limited, but there is enough variety to demonstrate some of the game's core ideas.
