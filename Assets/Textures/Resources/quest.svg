@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="quest.svg"
+   inkscape:export-ydpi="1536"
+   inkscape:export-xdpi="1536"
+   inkscape:export-filename="C:\Users\Ben\Documents\Dissertation\demonstration\Assets\Textures\Resources\quest.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 8.4666667 8.4666667"
+   height="32"
+   width="32">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="33.516422"
+     inkscape:cx="-3.9290531"
+     inkscape:zoom="10.4375"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#7c7c7c"
+     id="base"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       empspacing="4"
+       id="grid833"
+       type="xygrid"
+       color="#578bc7"
+       opacity="0.50196078"
+       empcolor="#7ca4d3"
+       empopacity="0.74509804"
+       enabled="true" />
+    <sodipodi:guide
+       position="0,8.4666667"
+       orientation="0,32"
+       id="guide839" />
+    <sodipodi:guide
+       position="8.4666667,8.4666667"
+       orientation="32,0"
+       id="guide841" />
+    <sodipodi:guide
+       position="8.4666667,0"
+       orientation="0,-32"
+       id="guide843" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-32,0"
+       id="guide845" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g889" />
+    <path
+       sodipodi:type="star"
+       style="fill:#83d6c0;fill-opacity:1;stroke:#000000;stroke-width:1.58750001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="path891"
+       sodipodi:sides="5"
+       sodipodi:cx="4.2333331"
+       sodipodi:cy="4.2333331"
+       sodipodi:r1="2.3812499"
+       sodipodi:r2="0.9539687"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.98279338"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 4.2333332,1.8520832 4.7625,3.4395834 6.4980364,3.4974865 5.1517556,4.4913186 5.6329966,6.1598048 4.2717825,5.1865267 2.8336695,6.1598047 3.3386737,4.5644537 1.9686299,3.4974864 3.6419538,3.4847833 Z"
+       inkscape:transform-center-y="-0.22738921" />
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>default</inkscape:name>
+    <inkscape:date>2021-04-12</inkscape:date>
+  </inkscape:templateinfo>
+</svg>

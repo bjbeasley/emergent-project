@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3768926844848667646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3768926844848667644}
+  - component: {fileID: 3768926844848667647}
+  - component: {fileID: 4232415946920739061}
+  - component: {fileID: 3929787493627442481}
+  m_Layer: 0
+  m_Name: StoryTeller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3768926844848667644
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768926844848667646}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3768926844848667647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768926844848667646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd73c6ca602e8a144842d987df9445d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterGenerator: {fileID: 11400000, guid: 9b5dcd201e1f738459c1d99af848bf92, type: 2}
+  worldBuilder: {fileID: 0}
+  mainSceneBuildIndex: 0
+  combatSceneBuildIndex: 1
+--- !u!114 &4232415946920739061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768926844848667646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d680f27ae86fc3f4b96d64ab7bbf7952, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 21300000, guid: e5f0052e4e2d51c42a6b43d52461a7ff, type: 3}
+  - {fileID: 21300000, guid: 66fe607075aa79342bec861ee7b39608, type: 3}
+  - {fileID: 21300000, guid: 7f7ce7fea92742f41905bddede0f64da, type: 3}
+  - {fileID: 21300000, guid: a46bd45faa72d05458bd6653bc8258e3, type: 3}
+  - {fileID: 21300000, guid: 4e2d9ede84675124095af373d6f1e711, type: 3}
+  - {fileID: 21300000, guid: 1020966f51507414b9e2aa0db36a4003, type: 3}
+  - {fileID: 21300000, guid: bf1872add818e284384768bb4f8e313c, type: 3}
+  - {fileID: 21300000, guid: 5b3dd8807e5437648aa01ae617340d18, type: 3}
+  - {fileID: 21300000, guid: 0a2c1d7e70f5ecc4787f93a3149c4971, type: 3}
+  - {fileID: 21300000, guid: b8c675cf1765ba646a5f8d0964c9ddc7, type: 3}
+  - {fileID: 21300000, guid: b2e18ec7dfb42a246aae163d33df5bf3, type: 3}
+--- !u!114 &3929787493627442481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3768926844848667646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbf5971089a0ca742aab88f336db784e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  townTexture: {fileID: 2800000, guid: 459355fc7f31bb243806f5f8098ce0f2, type: 3}
+  lootTexture: {fileID: 2800000, guid: e6ba0a499dd977f49a314a0d2911dcf4, type: 3}
+  foodTexture: {fileID: 2800000, guid: dbc4da64c2c897042a9a689dac77cda0, type: 3}
+  questTexture: {fileID: 2800000, guid: f536bc9eeadd7b64f8bd62ee1efec96f, type: 3}
+  fortTexture: {fileID: 2800000, guid: e3b5c0cc45ffc384baf492ce79d64853, type: 3}
+  otherTexture: {fileID: 2800000, guid: bec01a61b495acf489752b5c819354f6, type: 3}
+  iconPrefab: {fileID: 7544673304614262222, guid: 9bf06556cbb83124d8da36f2773a1ce4, type: 3}
+  iconSize: 0.07
+  maxIconSize: 1.7

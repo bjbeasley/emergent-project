@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 126f2bb0787ae9840a2c603ee7ceb552, type: 3}
+  m_Name: Male
+  m_EditorClassIdentifier: 
+  skullRoundness:
+    min: 0.8
+    max: 1.1
+  skullSmoothness:
+    min: 0.5
+    max: 1
+  skullWidth:
+    min: 0.9
+    max: 1.1
+  skullHeight:
+    min: 0.7
+    max: 1.3
+  jawRoundness:
+    min: 0.5
+    max: 1.5
+  jawSmoothness:
+    min: 0.9
+    max: 1
+  jawWidth:
+    min: 0.9
+    max: 1.1
+  jawHeight:
+    min: 0.5
+    max: 1.7
+  jawOffset:
+    min: 0.1
+    max: 1.1
+  chinPointedness:
+    min: -0.07
+    max: 0.7
+  neckWidth:
+    min: 0.7
+    max: 1
+  earWidth:
+    min: 0.5
+    max: 2
+  earHeight:
+    min: 0.5
+    max: 1
+  noseWidth:
+    min: 0.5
+    max: 1
+  noseHeight:
+    min: 0.7
+    max: 1
+  noseProminence:
+    min: 0.3
+    max: 1
+  nostrilDefintion:
+    min: 0
+    max: 1
+  eyebrowCurveDepth:
+    min: 0
+    max: 1
+  eyebrowCurveOffset:
+    min: 0
+    max: 1
+  eyebrowThickness:
+    min: 0.3
+    max: 1
+  eyebrowHeight:
+    min: 0.1
+    max: 0.7
+  eyeWidth:
+    min: 0.5
+    max: 0.7
+  eyeHeight:
+    min: 0.6
+    max: 0.7
+  eyeSlant:
+    min: 0.3
+    max: 1.5
+  upperPeakSize:
+    min: 0.7
+    max: 1.5
+  upperPeakOffset:
+    min: 0
+    max: 0.6
+  lowerPeakSize:
+    min: 0.3
+    max: 1
+  lowerPeakOffset:
+    min: 0.5
+    max: 0.8
+  lashThickness:
+    min: 0.4
+    max: 0.6
+  lashWingThickness:
+    min: 0
+    max: 0
+  hasHairChance: 0.7
+  hairlineHeight:
+    min: 0.2
+    max: 0.75
+  mouthWidth:
+    min: 0.55
+    max: 1
+  topLipSize:
+    min: 0.1
+    max: 0.8
+  bottomLipSize:
+    min: 0.3
+    max: 0.9
